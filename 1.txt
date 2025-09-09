@@ -1,0 +1,20 @@
+The system provides precise 6-DOF tracking data utilizing a fusion of inertial-optical technology. Ideal for augmented & virtual reality applications, simulation & training, robotic navigation and more.
+
+The IS-1200+ HObIT low-power, small-sized package can be head-worn with minimal impact or integrated into any object for virtually unlimited tracking. The power and interface for the IS-1200+ HObIT comes from a USB port for flexibility and ease of integration into your tracking application.
+
+The IS-1200+ HObIT is delivered fully factory calibrated and simple-to-use. Fiducial constellation can be installed and mapped to ~50 microns accuracy in just a few minutes using new VisualMapper software provided with the IS-1200+ HObIT. Once installed, the sensor is always ready without need for additional calibration. For use on vehicles, an auto-harmonization algorithm allows the system to self-align the fiducial constellation with the vehicle INS or attitude reference. We have the ability to work with you to meet your custom hardware and software needs.
+
+
+Degrees of Freedom	6 (Yaw, Pitch, Roll, X, Y, Z)
+Maximum Angular Rate	2000° per second
+Maximum Linear Acceleration	16 g
+Orientation Accuracy (RMS)*	0.3°
+Position Accuracy (RMS)*	 2  mm, typical cockpit conditions
+Update Rate	180 Hz
+Latency	5 ms (without prediction)
+Prediction	Up to 50 milliseconds
+Weight	75 grams
+Lens Field of View	130°
+Max Tracking Range	20x the fiducial diameter
+O/S Compatibility 	Windows & Linux
+* Specs are determined in a controlled and quantified environment; actual performance will vary due to factors such as distance from fiducials, density, and the accuracy with which fiducial locations can be calibrated.
